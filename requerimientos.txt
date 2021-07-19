@@ -1,0 +1,7 @@
+argparse
+time
+socket
+platform
+os
+threading
+pycryptodome
